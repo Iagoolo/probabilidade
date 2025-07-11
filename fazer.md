@@ -1,4 +1,4 @@
-# Trabalha iago
+# Trabalha iago (Final de semana eu foco, tô fazendo o de EDA)
 
 ## Tipos de ruido a serem tratados
 
